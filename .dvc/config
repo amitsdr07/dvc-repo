@@ -1,0 +1,7 @@
+[core]
+    remote = storage
+['remote "gdrive"']
+    url = gdrive://1WpS_9n1Uq6SO-Me4XZsweRbDcFlVOsKz
+['remote "storage"']
+    url = azure://mycontainer/dvcstore
+    connection_string = DefaultEndpointsProtocol=https;AccountName=csg10033fff971eaa9b;AccountKey=3jL33gIv0YfRxx/Jnv69U6yznZqq+CNiV82poEPCAqBdXvygyHa9nowzneAyFEtGsrckNX9ngI2YxOB98IhRgA==;EndpointSuffix=core.windows.net
